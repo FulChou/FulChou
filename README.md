@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working at studying and researching
-- 🌱 I’m currently learning reinforch-learning
+- 🌱 I’m currently learning reinforce-learning
 - 👯 I’m looking to collaborate on everything in computer science
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 602933854@qq.com
