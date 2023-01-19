@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate on everything in computer science
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 602933854@qq.com
-- 😄 wechat: _RedamancyLK_
+- 😄 wechat: chouful
+- LeetCode: https://leetcode.cn/u/fulchou/
 - ⚡ Fun fact: fitness
+- CSDN: https://blog.csdn.net/qq_43213352?spm=1001.2100.3001.5343
 
